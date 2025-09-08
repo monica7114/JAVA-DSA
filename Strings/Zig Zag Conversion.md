@@ -1,6 +1,5 @@
 ## Using StringBuilder
-```
-java
+```java
 class Solution {
     public String convert(String s, int numRows) {
         int curr=0;
